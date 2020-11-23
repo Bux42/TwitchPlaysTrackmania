@@ -7,3 +7,7 @@ A tool that connects to a twitch channel's chat, and sends inputs to Trackmania 
 ### Requirements
 * Autohotkey
 * .NET Framework 4.8
+
+### Install
+
+https://github.com/Bux42/TwitchPlaysTrackmania/raw/master/bin/TwitchPlaysTrackmania.rar

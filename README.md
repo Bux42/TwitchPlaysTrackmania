@@ -15,6 +15,9 @@ Extract the archive found here: https://github.com/Bux42/TwitchPlaysTrackmania/r
 Start TwitchPlaysTrackmania.exe
 
 Configure ChatBox settings & Connect (settings are saved automatically)
+
 Click "Turn ON"
+
 Focus Trackmania window
+
 And chat should be able to control your car ingame!
